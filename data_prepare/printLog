@@ -1,0 +1,14 @@
+data
+[200, 40]
+[24, 64, 64]
+------- volume-0.nii -------
+original space [0.703125 0.703125 5.      ]
+original shape (75, 512, 512)
+new space [0.8, 0.8, 1.5]
+zoomed shape: (250, 450, 450) , (250, 450, 450)
+zoomed seg unique: [0. 1. 2.]
+window transform( 200 , 40 ): 0.0 1.0
+effective shape: (110, 450, 450) , (110, 450, 450)
+67
+Time 0.254 min
+2021/12/22-13:22:07
